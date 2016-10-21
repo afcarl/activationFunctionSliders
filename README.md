@@ -21,7 +21,7 @@ interact(plot_sigmoid_1d, weight=(-5., 5.), bias=(-10., 10.));
 ```
 
 
-![png](output_1_0.png)
+![png](images/output_1_0.png)
 
 
 ### Two input variables
@@ -40,7 +40,7 @@ interact(plot_sigmoid_2d, weight1=(-5., 5.), weight2=(-5., 5.), bias=(-10., 10.)
 ```
 
 
-![png](output_3_0.png)
+![png](images/output_3_0.png)
 
 
 ## The ReLU : $\, \, f(x) = max(x, 0)$
@@ -57,7 +57,7 @@ interact(plot_sigmoid_1d, weight=(-5., 5.), bias=(-10., 10.));
 ```
 
 
-![png](output_5_0.png)
+![png](images/output_5_0.png)
 
 
 ### Two input variables
@@ -76,5 +76,5 @@ interact(plot_relu_2d, weight1=(-5., 5.), weight2=(-5., 5.), bias=(-10., 10.));
 ```
 
 
-![png](output_7_0.png)
+![png](images/output_7_0.png)
 
